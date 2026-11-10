@@ -1,11 +1,11 @@
 # @anclp/node_email_verifier
 
 [![NPM Version](https://img.shields.io/npm/v/@anclp/node_email_verifier)](https://www.npmjs.com/package/@anclp/node_email_verifier)
-[![Build Status](https://github.com/jay6909/node_email_verifier/actions/workflows/release.yml/badge.svg)](https://github.com/jay6909/node_email_verifier/actions/workflows/release.yml)
+[![Build Status](https://github.com/saveduser/node_email_verifier/actions/workflows/release.yml/badge.svg)](https://github.com/saveduser/node_email_verifier/actions/workflows/release.yml)
 [![NPM Downloads](https://img.shields.io/npm/dm/@anclp/node_email_verifier)](https://www.npmjs.com/package/@anclp/node_email_verifier)
-[![Publish to npm](https://github.com/jay6909/node_email_verifier/actions/workflows/release.yml/badge.svg)](https://github.com/jay6909/node_email_verifier/actions/workflows/release.yml)
+[![Publish to npm](https://github.com/saveduser/node_email_verifier/actions/workflows/release.yml/badge.svg)](https://github.com/saveduser/node_email_verifier/actions/workflows/release.yml)
 
-Ultra-fast email verification for Node.js, powered by a Go-compiled native engine. (source: https://github.com/jay6909/go_email_verifier)
+Ultra-fast email verification for Node.js, powered by a Go-compiled native engine. (source: https://github.com/saveduser/go_email_verifier)
 
 ## Installation
 
