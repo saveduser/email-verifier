@@ -1,10 +1,10 @@
 {
-  "name": "@anclp/node_email_verifier",
-  "version": "1.1.3",
+  "name": "@anclp/email-verifier",
+  "version": "1.1.4",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jay6909/node_email_verifier.git",
+    "url": "git+https://github.com/saveduser/email-verifier.git",
     "directory": "node"
   },
   "publishConfig": {
