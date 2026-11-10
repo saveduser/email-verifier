@@ -1,6 +1,6 @@
 
 const { performance } = require("perf_hooks");
-const { verifyEmailsBatch } = require("@anclp/node_email_verifier")
+const { verifyEmailsBatch } = require("@anclp/email-verifier")
 
 const count = 10000;
 const emails = Array.from({ length: count }, (_, i) => `test${i}@gmail.com`);
